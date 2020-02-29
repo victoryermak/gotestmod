@@ -1,3 +1,3 @@
-module github.com/victoryermak/v3
+module github.com/victoryermak/gotestmod/v3
 
 go 1.14
